@@ -1,5 +1,8 @@
 ---
-title: "Manato Ogawa"
+title: "About"
 ---
 
-About this site
+## About Me
+My name is **Manato Ogawa**, and I am going to attend the **University of Wisconsin Madison**
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
